@@ -1,0 +1,3 @@
+## Competitive Programming
+
+Competitive programming or sport programming is a mind sport involving participants trying to program according to provided specifications. The contests are usually held over the Internet or a local network. A programming competition generally involves the host presenting a set of logical or mathematical problems, also known as puzzles or challenges, to the contestants (who can vary in number from tens or even hundreds to several thousand). Contestants are required to write computer programs capable of solving these problems. Judging is based mostly upon number of problems solved and time spent on writing successful solutions, but may also include other factors (quality of output produced, execution time, memory usage, program size, etc.). 
